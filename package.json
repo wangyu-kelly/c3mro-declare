@@ -1,0 +1,24 @@
+{
+  "name": "c3mro-declare",
+  "version": "0.0.1",
+  "description": "C3MRO based OOP implement",
+  "main": "c3mro-declare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyu-kelly/c3mro-declare.git"
+  },
+  "keywords": [
+    "C3MRO",
+    "decalre",
+    "OOP"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyu-kelly/c3mro-declare/issues"
+  },
+  "homepage": "https://github.com/wangyu-kelly/c3mro-declare#readme"
+}
